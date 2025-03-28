@@ -4,3 +4,5 @@ I collected and cleaned Road Accident data in India and performed statistical an
 
 ![image](https://github.com/user-attachments/assets/90c55c18-ea0b-4274-b342-454e2609a3f1)
 
+
+![image](https://github.com/user-attachments/assets/52bf540b-70da-427a-abcb-7636320774fe)
